@@ -9,7 +9,15 @@ I converted the spreadsheet into a CSV file
 Then I converted it into a JSON file using https://csvjson.com/csv2json
 
 The API gives you a list with names of courses and their URL's. 
+
+![itpsyll3](itpsyll3.png)
+
+I had to look for an efficient way to present the data in tables, at first only one data point would show, whereas I could see all data points in the developer console.
 ![itpsyll2](itpsyll2.png)
+
+Perhaps there is a better way to use for loop to generate tables in javascript
+
+![itpsyll4](itpsyll4.png)
 
 The API is deployed on [glitch](https://bsehgol-dwd-itpsyllabusapi.glitch.me/) and has a [github repo](https://github.com/bsehgol/dwd-itpSyllabusAPI)
 
