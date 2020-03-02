@@ -1,0 +1,265 @@
+{
+    "description": "A list of ITP Syllabus.",
+    "itpSyllabus": [
+    {
+      "Class": "100 days of making",
+      "Link": ""
+    },
+    {
+      "Class": "algorithmic composition",
+      "Link": "https://itp.nyu.edu/~rd64/ac/"
+    },
+    {
+      "Class": "Basic Analog Circuits",
+      "Link": "http://www.basicanalogcircuits.com/Syllabus.html"
+    },
+    {
+      "Class": "Big games",
+      "Link": "http://www.iamtheeconomy.com/big-games.html"
+    },
+    {
+      "Class": "Biodesigning the future of food",
+      "Link": "http://www.stefanibardin.net/biodesign2018/"
+    },
+    {
+      "Class": "blockchain fiction",
+      "Link": "https://www.coursicle.com/nyu/courses/ITPGGT/2115/"
+    },
+    {
+      "Class": "Bluetooth LE",
+      "Link": "https://docs.google.com/document/d/14_Q_m875voIY-3Lior-CT8vheJM1bm725YtAMgdN2qk/edit"
+    },
+    {
+      "Class": "bluetooth le",
+      "Link": "https://docs.google.com/document/d/18MOFSAsOATgW3HNQFIEpOs8nDoIszJ1jnyegbSlA1vg/edit"
+    },
+    {
+      "Class": "choreographic interventions",
+      "Link": "https://github.com/mimiyin/choreographic-interventions-s18/"
+    },
+    {
+      "Class": "collective narrative",
+      "Link": "https://itp.nyu.edu/~mp51/collective/index.html"
+    },
+    {
+      "Class": "collective play",
+      "Link": "https://github.com/mimiyin/collective-play-s18"
+    },
+    {
+      "Class": "comics",
+      "Link": ""
+    },
+    {
+      "Class": "connected devices and networked interaction",
+      "Link": "https://itp.nyu.edu/classes/connected-devices/"
+    },
+    {
+      "Class": "critical objects",
+      "Link": "https://github.com/juxtapix/CriticalObjects/blob/master/README.md"
+    },
+    {
+      "Class": "designing games for kids",
+      "Link": "https://itp.nyu.edu/registration/syllabi/2705.1.2018.Spring.pdf"
+    },
+    {
+      "Class": "designing meanigful interactions",
+      "Link": "https://itp.nyu.edu/~kd49/ux/"
+    },
+    {
+      "Class": "Detourning the Web",
+      "Link": "https://github.com/antiboredom/detourning-the-web-2018"
+    },
+    {
+      "Class": "detourning the web",
+      "Link": "https://github.com/antiboredom/detourning-the-web"
+    },
+    {
+      "Class": "Digital Security and human rights",
+      "Link": ""
+    },
+    {
+      "Class": "DWD online",
+      "Link": "https://itp.nyu.edu/~sve204/dwd_spring2018/"
+    },
+    {
+      "Class": "electronic rituals, oracles and fortune telling",
+      "Link": "http://eroft.decontextualize.com/"
+    },
+    {
+      "Class": "Emotions in Motion",
+      "Link": "https://docs.google.com/document/d/1foPzh8k1ExBe094wfOPrJqEJC3RcPE9nMkihCfW61t4/edit"
+    },
+    {
+      "Class": "energy",
+      "Link": "http://www.fddrsn.net/teaching/energy/"
+    },
+    {
+      "Class": "expressive interfaces: introduction to fashion technology",
+      "Link": "https://itp.nyu.edu/classes/fashion/"
+    },
+    {
+      "Class": "Expressive Interfaces: Voice",
+      "Link": "https://github.com/juxtapix/ExpressiveInterfaces_Voice"
+    },
+    {
+      "Class": "future scenarios and systems thinking",
+      "Link": "https://itp.nyu.edu/classes/future-scenarios/syllabus/"
+    },
+    {
+      "Class": "hacking the browser",
+      "Link": "https://github.com/ITPNYU/hacking-the-browser"
+    },
+    {
+      "Class": "homemade hardware",
+      "Link": "http://homemadehardware.com/"
+    },
+    {
+      "Class": "impossible maps",
+      "Link": "https://github.com/MimiOnuoha/Impossible-Maps"
+    },
+    {
+      "Class": "interactive music",
+      "Link": "https://tambien.github.io/InteractiveMusic/"
+    },
+    {
+      "Class": "live image processing and performance",
+      "Link": "https://itp.nyu.edu/classes/lipp/"
+    },
+    {
+      "Class": "looking forward 2: design for accesibilty",
+      "Link": "https://docs.google.com/document/d/1eaHYBct-GeSfgTk-IZ9gUhzHSIkaVYeujX2qf0h9A3M/edit#heading=h.gjdgxs"
+    },
+    {
+      "Class": "magic windows",
+      "Link": ""
+    },
+    {
+      "Class": "Mashups - creating with web apis",
+      "Link": "https://github.com/ITP-Mashups/Mashups"
+    },
+    {
+      "Class": "mobile lab",
+      "Link": "https://www.mobilelabclass.com/"
+    },
+    {
+      "Class": "neuroscience and art",
+      "Link": ""
+    },
+    {
+      "Class": "nothing: creating illusions",
+      "Link": ""
+    },
+    {
+      "Class": "open source cinema",
+      "Link": "P"
+    },
+    {
+      "Class": "paper engineering 101 and designing for children",
+      "Link": "https://itp.nyu.edu/registration/syllabi/2187.1.2018.Spring.pdf"
+    },
+    {
+      "Class": "playful communication of serious research",
+      "Link": "http://brettjpeterson.com/teaching/Playful_Communication_Syllabus.html"
+    },
+    {
+      "Class": "project development studio",
+      "Link": ""
+    },
+    {
+      "Class": "prototyping augmented reality",
+      "Link": ""
+    },
+    {
+      "Class": "quant humanists : the i in the api",
+      "Link": "https://docs.google.com/document/d/1nnrBNNeuPHSg05BF7q1MC8vAPWMkK1xA5ErtoYcx-wE/edit"
+    },
+    {
+      "Class": "reading and writing electronic text",
+      "Link": "http://rwet.decontextualize.com/"
+    },
+    {
+      "Class": "recurring concepts in art",
+      "Link": "https://itp.nyu.edu/registration/syllabi/2586.1.2018.Spring.pdf"
+    },
+    {
+      "Class": "",
+      "Link": ""
+    },
+    {
+      "Class": "rest of you",
+      "Link": "https://itp.nyu.edu/classes/roy18/"
+    },
+    {
+      "Class": "soft robots and other engineered software",
+      "Link": "https://docs.google.com/document/d/1ndD73ZojDDlmpztKcByHJ1bmP-BoILYO09DalnmImwU/edit"
+    },
+    {
+      "Class": "sound in space",
+      "Link": "https://github.com/tambien/SoundInSpace/blob/master/SYLLABUS.md"
+    },
+    {
+      "Class": "storytelling with non linear video",
+      "Link": ""
+    },
+    {
+      "Class": "subtraction",
+      "Link": "https://itp.nyu.edu/fab/subtraction/"
+    },
+    {
+      "Class": "synthetic architectures",
+      "Link": "https://docs.google.com/document/d/1u-4nj0U7nQau1UyQ1Y4F95uM7jnvEsIDx9CZ7zwqR-U/edit"
+    },
+    {
+      "Class": "tangible interaction workshop",
+      "Link": "https://itp.nyu.edu/classes/tangible-interaction/syllabus/"
+    },
+    {
+      "Class": "teaching as art",
+      "Link": "https://github.com/tchoi8/teachingasart"
+    },
+    {
+      "Class": "technology, media and democracy: addressing challenges to an informed electorate",
+      "Link": ""
+    },
+    {
+      "Class": "the api of you",
+      "Link": ""
+    },
+    {
+      "Class": "the code of music",
+      "Link": "https://luisaph.github.io/the-code-of-music-2018/"
+    },
+    {
+      "Class": "the fungus among us",
+      "Link": ""
+    },
+    {
+      "Class": "the nature of code",
+      "Link": "http://natureofcode.com/book/"
+    },
+    {
+      "Class": "the poetics of space",
+      "Link": ""
+    },
+    {
+      "Class": "the world, pixel by pixel",
+      "Link": "https://docs.google.com/document/d/1PiizgHg2Iv5S5Z1YaghNC1AB2Ruc6ZI7bWXLTqAURt0/edit"
+    },
+    {
+      "Class": "towers of power",
+      "Link": ""
+    },
+    {
+      "Class": "video sculpture",
+      "Link": "https://docs.google.com/document/d/1YhBcMS1fRTyWWqyw7zI4d24rM08iLMwENWxJd4R-7ow/edit"
+    },
+    {
+      "Class": "worlds on a wire: narrative storytelling in vr",
+      "Link": ""
+    },
+    {
+      "Class": "xyz",
+      "Link": "https://itp.nyu.edu/fab/xyz/"
+    }
+  ]
+}
