@@ -21,4 +21,6 @@ Perhaps there is a better way to use for loop to generate tables in javascript
 
 The API is deployed on [glitch](https://bsehgol-dwd-itpsyllabusapi.glitch.me/) and has a [github repo](https://github.com/bsehgol/dwd-itpSyllabusAPI)
 
+I also wanted to make my more API dynamic and I watched Shiffman's video's that are recommended. However, I did not find these videos as useful as he pivots to using p5 libraries that allow users to draw the data, towards the end of his 7 video series. 
+
 
