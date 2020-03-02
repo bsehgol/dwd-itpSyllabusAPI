@@ -20,28 +20,36 @@
 
     window.addEventListener("DOMContentLoaded", () => {
     
-    const syllabusList = document.getElementById("syllabus-list");
+    // const syllabusList = document.getElementById("syllabus-list");
 
     fetch("/syllabus")
       .then(res => res.json())
       .then((data) => {
          itpSyllabus = data.itpSyllabus
+         console.log(itpSyllabus)
          
         for (var i = 0; i <= itpSyllabus.length; ++i){
           
           course.push(itpSyllabus[i].Class)
           url.push(itpSyllabus[i].Link)
           
-          syllabusList.innerHTML = SyllabusList(course[i], url[i]); 
+          var li = document.createElement("li");
+          var text = document.createTextNode(course[i]);
+          var text2 = document.createTextNode(url[i]);
+          li.appendChild(text) + " : " + li.appendChild(text2);;
+          
+          document.getElementById("syllabus-list").appendChild(li);
+
+          // syllabusList.innerHTML = SyllabusList(course[i], url[i]); 
             
         }
 
       });
     });
 
-    function SyllabusList(course, url) {
-        return `<li>${course} : ${url} </li>`;
-    }
+    // function SyllabusList(course, url) {
+    //     return `<li>${course} : ${url} </li>`;
+    // }
   </script>
 </body>
 </html>
