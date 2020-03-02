@@ -8,11 +8,14 @@ I converted the spreadsheet into a CSV file
 
 Then I converted it into a JSON file using https://csvjson.com/csv2json
 
+![itpsyll7](itpsyll7.png)
+
 The API gives you a list with names of courses and their URL's. 
 
 ![itpsyll6](itpsyll6.png)
 
-I had to look for an efficient way to present the data in tables, at first only one data point would show, whereas I could see all data points in the developer console.
+I had to look for an efficient way to present the data in tables, at first only one data point would show, whereas I could see all data points in the developer console. It took me multiple iterations before I could get data to display in the way I wanted. This JSON file was more complex than the one in Backend Workbook.
+
 ![itpsyll2](itpsyll2.png)
 
 Perhaps there is a better way to use for loop to generate tables in javascript
